@@ -36,7 +36,7 @@ The model achieved high accuracy on both training and validation sets, demonstra
 The image below visualizes sample Images, Accuracy, and Loss from the dataset.
 
 <p align="center">
-  <img src="Images/Sample Data" width="600"/>
+  <img src="Images/Sample Data.png" width="600"/>
 </p>
 <p align="center">
   <img src="Images/Accuracy.png" width="600"/>
